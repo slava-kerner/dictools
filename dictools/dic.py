@@ -12,3 +12,6 @@ class Dic:
 
     def __len__(self):
         return len(self.dic)
+
+    def __eq__(self, other):
+        return self.lng_src == other.lng_src and self.lng_dst == other.lng_dst and self.dic == other.dic
