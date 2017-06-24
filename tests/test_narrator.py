@@ -12,7 +12,6 @@ class TestNarrator(unittest.TestCase):
         dic = Dic('fr', 'en', [('moi', 'I'), ('toi', 'you')])
 
         with TemporaryDirectory() as folder:
-            folder = 'tmp2'
             output_path = os.path.join(folder, 'out.mp3')
             narrator.narrate(dic, output_path)
             self.assertTrue(os.path.exists(output_path))

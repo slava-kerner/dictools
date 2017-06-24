@@ -3,9 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="d755e4f4-f95c-4db4-b66f-ee8f25b065bb" name="Default" comment="first">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dictools/narrator.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/test_narrator.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tmp/out.mp3" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/requirements.txt" afterPath="$PROJECT_DIR$/requirements.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/test_narrator.py" afterPath="$PROJECT_DIR$/tests/test_narrator.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -38,7 +39,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="narrator.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="narrator.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dictools/narrator.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="342">
@@ -70,16 +71,16 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test_narrator.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="test_narrator.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tests/test_narrator.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="252">
-              <caret line="14" column="26" lean-forward="false" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
-                <marker date="1498337932613" expanded="true" signature="175:474" ph="..." />
-                <marker date="1498337932613" expanded="true" signature="203:474" ph="..." />
-                <marker date="1498337932613" expanded="true" signature="341:474" ph="..." />
+                <marker date="1498338032137" expanded="true" signature="175:446" ph="..." />
+                <marker date="1498338032137" expanded="true" signature="203:446" ph="..." />
+                <marker date="1498338032137" expanded="true" signature="341:446" ph="..." />
               </folding>
             </state>
           </provider>
@@ -149,8 +150,8 @@
         <option value="$PROJECT_DIR$/dictools/dic.py" />
         <option value="$PROJECT_DIR$/tests/test_dic.py" />
         <option value="$PROJECT_DIR$/requirements.txt" />
-        <option value="$PROJECT_DIR$/tests/test_narrator.py" />
         <option value="$PROJECT_DIR$/dictools/narrator.py" />
+        <option value="$PROJECT_DIR$/tests/test_narrator.py" />
       </list>
     </option>
   </component>
@@ -195,20 +196,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="dictools" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dictools" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dictools" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tmp" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -465,9 +452,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="-11" width="1857" height="1092" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24959569" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24959569" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991913" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -538,9 +524,9 @@
           <caret line="14" column="25" lean-forward="false" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
-            <marker date="1498337932613" expanded="true" signature="175:474" ph="..." />
-            <marker date="1498337932613" expanded="true" signature="203:474" ph="..." />
-            <marker date="1498337932613" expanded="true" signature="341:474" ph="..." />
+            <marker date="1498338032137" expanded="true" signature="175:446" ph="..." />
+            <marker date="1498338032137" expanded="true" signature="203:446" ph="..." />
+            <marker date="1498338032137" expanded="true" signature="341:446" ph="..." />
           </folding>
         </state>
       </provider>
@@ -676,25 +662,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests/test_narrator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="26" lean-forward="false" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-            <marker date="1498337932613" expanded="true" signature="175:474" ph="..." />
-            <marker date="1498337932613" expanded="true" signature="203:474" ph="..." />
-            <marker date="1498337932613" expanded="true" signature="341:474" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dictools/narrator.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
           <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/test_narrator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+            <marker date="1498338032137" expanded="true" signature="175:446" ph="..." />
+            <marker date="1498338032137" expanded="true" signature="203:446" ph="..." />
+            <marker date="1498338032137" expanded="true" signature="341:446" ph="..." />
           </folding>
         </state>
       </provider>
