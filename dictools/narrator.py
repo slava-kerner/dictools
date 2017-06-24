@@ -1,5 +1,4 @@
 import os
-# import csv
 import gtts
 from tqdm import tqdm
 from pydub import AudioSegment
