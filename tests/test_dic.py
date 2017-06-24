@@ -27,3 +27,15 @@ class TestDic(unittest.TestCase):
             with self.assertRaises(DicError):
                 self.sample[invalid] = ('moi', 'I')
 
+    def test_from_google_spreadsheet(self):
+        credentials = Dic._credentials('dictools-7bcfbe139da9.json')
+
+        with self.assertRaises(DicError):
+            Dic.from_google_spreadsheet(credentials, '', '')
+
+        dic = Dic.from_google_spreadsheet(credentials, name='test_dictools')
+        self.assertEqual(dic, self.sample)
+
+        url = 'https://docs.google.com/spreadsheets/d/1yK6uq3e5slF_3EPtIRxcuKMQJrS0Tdhy-D69k-Nx_Mw'
+        dic = Dic.from_google_spreadsheet(credentials, url=url)
+        self.assertEqual(dic, self.sample)

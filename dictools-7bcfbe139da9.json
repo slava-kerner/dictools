@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "dictools-171623",
+  "private_key_id": "7bcfbe139da944c0aa140811a390f5fa425b6293",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCOMujyhQoTgvLg\nq8+yKt8IzEtft+LKd0clr9vT4f0M+NFGpk02MUFwA0ixD3YL7bzIAAQziY1I8X/W\ndc661VmlDIVIi8ISwP5RzQDyb0bIpe7DC9Zp7hYjjG1hxQyRt0FHSw4G7D17/U01\nrTDMRgKbLREFrKQOj/FUeky40QWL5BPZ/R0bN40C1Y9S4BhESXFq7CkPAySgjxKY\npjjjTp10v2EYqesmBJLmGe+l11O120DQ7v2V7OVC9nyF+1Z12tBOnbKjrA8DGqZB\nxWZStaMn2mNAnB/49oet9JHTKkMrJhf/+XFnAzto0SVHA9qrh9f0LGXfQJMXwtA5\nZ/FGztInAgMBAAECggEAAeEWl0Lx0QgU6ozrMFeKarMQQL71VJ6isyjcrEzskBGq\n40gUuzQLU7DXa2+fGf1BmFqZh7qMVKfFFdLyPDBFSZeSp3k+nxHbP5nZAhlh68En\nApV0CYHHty2yfqfisrJL38H1M2KQVXQgRi4R/0+9x5cbVqewHo8XaGtCYZFqSsdC\n2Ovlv6qPN7rpFIDKQAmRtzdbBy74HEbU7YgON8MzER6zgorlYOj0cVCb10Rlj/Px\ntb5w2dSqIWjZw9hbkBAdErS2lje/LBxraVQJ2cRsQti8xG95deaa3yrqZfVwgvqO\nmRdh4q8Xk4JSfplAQahIC8Geo3kbZ2URrgLRx4EAEQKBgQDHqD+jHat4xwfDWjWH\nSdzxt3yGVnW/ny8gAsVpNzcN6smNJpXiy7OWvcvN8ahSOFjN3Lve1oVCt2IV/KHz\nt4IHYRiqKk7gFDmHFwj6G8aMyzM1igx3LBJJgLWzrzaPyLKfzY7Dqo/JG62yVCs2\nKWkvBqvRDdIoUfHa0Pfq6rN0MwKBgQC2U7jWHluL5bZIdEm3dlBZTDFGBZrT+aot\nY9jHNqj1AN21ckmhcwvCR9Ci0CI6dTXisDCyrGlrequHwYW+oqRI4Tx/VxSNIuK/\ny/XnvLBD9gFVKLdMAZXmGHuywxpF92zFZzhlV+dV5o/7fAiX9fo2+jfFQZZ5WjTD\npurxn/FWPQKBgB7VW+aL6XRAgHFp2ARposZtiLySU6LhKXzvEJ+cGFN84915jQI2\nZSitbPEEFfOEoipAoX7bcD8KZQpyNmyV9W3AT/fPitjOJsg3BXrimTobE3B8PkqV\nMsnJJ8Z1E58G5pcJPrf2+jebn6p/lyDJKmZJyHUDhmYVqZ0aUn8j+czDAoGAWLx2\ngP9VXsj15l1yYy/Z+xvx/zpLGE+yW1T09D/OCy/Yt65f14u+dVeuWw8hGYJiL2nA\nybTPudeCFBhDl3xgqHe2keM3xVjtMpt5msdiojDghSnDy+IZqlrQGTiLWPIKpiiO\ncgROOqhz+tlq9Upp9MfizMYXDgixFWfvgJlvQ6ECgYBc3YbjbJVa9fsXpZjGbN2U\n2nW4lQgVDhWTWd1yz9fPtxndd3uvM8P0vLZoF5e2gIFnaAEaJ4fRbf26MDfEpnlx\n/bZf/KmMQS7i02+xLImJB/Pp6YdBEpMtT1MFlMvpRsij8Pzx0x7HtVHZdFStLl1N\n2kAUPya/HY6Ar6aSbYpelw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "dictools@dictools-171623.iam.gserviceaccount.com",
+  "client_id": "109288477571111223800",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dictools%40dictools-171623.iam.gserviceaccount.com"
+}
