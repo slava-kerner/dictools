@@ -2,3 +2,6 @@ pydub
 coverage
 gspread
 oauth2client
+gtts
+pydub
+tqdm
