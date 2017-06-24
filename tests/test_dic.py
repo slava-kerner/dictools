@@ -27,6 +27,9 @@ class TestDic(unittest.TestCase):
             with self.assertRaises(DicError):
                 self.sample[invalid] = ('moi', 'I')
 
+    def test_iter(self):
+        self.assertEqual(len(list(self.sample)), len(self.sample))
+
     def test_from_google_spreadsheet(self):
         credentials = Dic._credentials('dictools-7bcfbe139da9.json')
 

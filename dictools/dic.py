@@ -38,6 +38,9 @@ class Dic:
 
         self.dic[key] = value
 
+    def __iter__(self):
+        return iter(self.dic)
+
     @classmethod
     def from_google_spreadsheet(cls, credentials, url=None, name=None, sheet_index=0):
         if not (url is None) ^ (name is None):
